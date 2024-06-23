@@ -2,7 +2,9 @@
 Desarrollador & diseñador UX/UI apasionado por innovar, diseñar y programar<br>al ritmo y sintonía de la tecnología.
 
 Proyectos actuales Privados.
+
 -Sistema de prestamo e inventario, Proyecto SENA.
+
 -Dayz Valhalla lanzador.
 
 ## 🌐 Socials:
