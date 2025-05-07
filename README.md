@@ -3,9 +3,8 @@ Desarrollador & diseñador UX/UI apasionado por innovar, diseñar y programar<br
 
 Proyectos actuales Privados.
 
--Sistema de prestamo e 
+-Sistema de prestamos. 
 -inventario,KOBA
-
 -Dayz Valhalla lanzador.
 
 ## 🌐 Socials:
